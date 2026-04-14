@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/MATPLOTLIB-20232A?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
-<h1 align="center">📊 E-Commerce Performance Diagnostic Dashboard</h1>
+<h1 align="center">📊 E-Commerce Sales Insights Dashboard</h1>
 
 <p align="center">
 Transforming raw transactional data into actionable business insights 🚀
@@ -81,29 +81,35 @@ This project converts raw transactional data into a **decision-support dashboard
 ---
 
 ## 📂 Repository Structure
+
+```
 ecommerce-sales-analysis/
 │
 ├── Ecommerce-sales-analysis/
-│ ├── data/
-│ │ └── superstore.csv
-│ ├── analysis.py
-│ └── dashboard.png
+│   ├── data/
+│   │   └── superstore.csv
+│   ├── analysis.py
+│   └── dashboard.png
 │
 └── README.md
+```
 
----
 
 ## ▶️ How to Run the Project
 
 1. Clone the repository  
-2. Install required libraries
-   
+
+2. Install required libraries  
+
+```
 pip install pandas matplotlib
+```
 
-4. Run the analysis script
+3. Run the analysis script  
 
-
----
+```
+python analysis.py
+```
 
 ## 💡 Conclusion
 This analysis highlights how data-driven approaches can uncover hidden inefficiencies and growth opportunities.
