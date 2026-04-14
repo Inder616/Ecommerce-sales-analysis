@@ -10,6 +10,14 @@
 Transforming raw transactional data into actionable business insights 🚀
 </p>
 
+<p align="center">
+<b>End-to-End Data Analysis Project</b>
+</p>
+
+<p align="center">
+📊 Built using real-world business questions to simulate a data analyst workflow
+</p>
+
 ---
 
 ## 📖 Executive Summary
@@ -49,7 +57,7 @@ This project converts raw transactional data into a **decision-support dashboard
 
 ## 📊 Dashboard Preview
 <p align="center">
-  <img src="./dashboard.png" width="800"/>
+  <img src="Ecommerce-sales-analysis/dashboard.png" width="800"/>
 </p>
 
 ---
@@ -73,13 +81,34 @@ This project converts raw transactional data into a **decision-support dashboard
 ---
 
 ## 📂 Repository Structure
+ecommerce-sales-analysis/
+│
+├── Ecommerce-sales-analysis/
+│ ├── data/
+│ │ └── superstore.csv
+│ ├── analysis.py
+│ └── dashboard.png
+│
+└── README.md
+
+---
+
+## ▶️ How to Run the Project
+
+1. Clone the repository  
+2. Install required libraries
+   
+pip install pandas matplotlib
+
+4. Run the analysis script
+
 
 ---
 
 ## 💡 Conclusion
-This project highlights how data analysis can uncover **hidden inefficiencies and strategic opportunities**.  
+This analysis highlights how data-driven approaches can uncover hidden inefficiencies and growth opportunities.
 
-By combining **technical analysis with business reasoning**, it demonstrates how data can support **better decision-making in real-world scenarios**.
+The project demonstrates the importance of combining **data analysis, visualization, and business understanding** to support strategic decision-making.
 
 ---
 
