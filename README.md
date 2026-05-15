@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATPLOTLIB-20232A?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATPLOTLIB-20232A?style=for-the-badge&logo=plotly&logoColor=white"/> 
 </p>
 
 <h1 align="center">📊 E-Commerce Sales Insights Dashboard</h1>
